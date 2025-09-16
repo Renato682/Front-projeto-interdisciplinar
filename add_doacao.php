@@ -1,4 +1,5 @@
 <?php
+//waleska part
 include 'config.php'; // conexão com o banco de dados la no myslq
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
